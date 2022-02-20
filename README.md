@@ -1,2 +1,3 @@
-# computer_graphics
-codes related to computer graphics
+# University Works
+
+codes related to the University's course works
